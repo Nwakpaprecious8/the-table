@@ -5,6 +5,11 @@ It can be of differnt colors
 blue
 brown
 white
+red
 .....
 
 Tolu carries the table
+
+sarah looks at the table
+
+sarah sees Tolu
