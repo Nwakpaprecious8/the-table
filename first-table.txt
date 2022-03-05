@@ -1,0 +1,10 @@
+A table can be rectangulat in shape
+
+It can be of differnt colors
+
+blue
+brown
+white
+.....
+
+Tolu carries the table
